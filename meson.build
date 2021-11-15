@@ -1,0 +1,6 @@
+project('api-hook-tutorial', 'cpp', version: '1.0.0')
+add_project_arguments('/std:c++20', language: 'cpp')
+subdir('hacker')
+subdir('launcher')
+subdir('messenger')
+subdir('messenger-next')
