@@ -1,1 +1,1 @@
-executable('messenger', files('main.cpp'))
+executable('messenger-next', files('main.cpp'))
